@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog serve",
+  "main": "index.js",
+  "author": "june",
+  "license": "MIT"
+}
