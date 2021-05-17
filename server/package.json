@@ -4,5 +4,11 @@
   "description": "blog serve",
   "main": "index.js",
   "author": "june",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  }
 }
